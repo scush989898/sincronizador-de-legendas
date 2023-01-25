@@ -1,6 +1,5 @@
-## Information about output
+## Informações sobre o output.
 
-The generated file will be created in 
-this folder with the name "shifted.srt". 
-If you run the program again the file
-will be overwritten.
+O arquivo gerado será criado nesta pasta com o nome "shifted.srt".
+Se você rodar o programa denovo, o arquivo vai ser sobescrito.
+Então tenha o cuidado de copiar ou recortar o arquivo da última execução para não perder tempo/dados.

@@ -14,8 +14,8 @@ Esse foi um projeto que eu fiz para uso pessoal e acabei gostando bastante do re
 
 ## Observações finais:
 
-Não testei no SO linux e também não testei para outros tipos de extensões de legenda.
-Só testei para srt e no SO windows. 
+Não testei no Sistema Operacional linux e também não testei para outros tipos de extensões de legenda.
+Só testei para srt e no Sistema Operacional windows. 
 Eu estou partindo do pressuposto que você já saiba ou esteja bem próximo do valor de atraso da legenda, se você não tiver idéia do valor, pode ir tentando até descobrir ou usar algum player de vídeo pra ir testando.
 Também estou partindo do princípio que você atenda os requisitos pra rodar o programa, como a JVM e um editor pra mudar os nomes das variáveis.
 
